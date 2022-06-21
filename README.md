@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Opensource Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Umar43](https://github.com/Umar43)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Umar43)
 
 - 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **https://www.linkedin.com/in/umar43/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/umar43/)
 
 - ⚡ Fun fact **I think I'm funny**
 
