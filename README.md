@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Umar</h1>
-<h3 align="center">Data Scientists</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar43&label=Profile%20views&color=0e75b6&style=flat" alt="umar43" /> </p>
 
 - 🔭 I’m currently working on **Web Scraping**
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m currently learning **Python,R,Machine Learning**
 
 - 👯 I’m looking to collaborate on **Opensource Project**
 
