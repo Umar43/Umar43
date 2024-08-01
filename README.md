@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar43&label=Profile%20views&color=0e75b6&style=flat" alt="umar43" /> </p>
 
-- 🔭 I’m currently working on **Web Scraping**
+- 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Python,R,Machine Learning**
+- 🌱 I’m currently learning **Python,R,Machine Learning,AI,Data Analytics,NLP**
 
 - 👯 I’m looking to collaborate on **Opensource Project**
 
