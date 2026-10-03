@@ -1,31 +1,46 @@
 <h1 align="center">Hi there 👋, I'm Umar</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Analyst | BI Analyst | Data Science & ML Background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar43&label=Profile%20views&color=0e75b6&style=flat" alt="umar43" /> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🎓 Pursuing a BBA in Business Analytics (Xamk, Finland), building on a BS in Data Science
 
-- 🌱 I’m currently learning **Python,R,Machine Learning,AI,Data Analytics,NLP**
+- 🔭 Currently building a portfolio of **data analytics & applied ML projects** — SQL, Python, Power BI, and predictive modeling applied to real business questions
 
-- 👯 I’m looking to collaborate on **Opensource Project**
+- 📊 [RFM Customer Segmentation Analytics](https://github.com/Umar43/RFM-Customer-Segmentation-Analytics) — customer segmentation on ~542K retail transactions using SQL, statistical testing in Python, and an interactive Power BI dashboard
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Umar43)
+- 🧠 [Class Surveillance System](https://github.com/Umar43/Class-Surveillance-System) — Final Year Project: real-time classroom monitoring using face recognition (MTCNN, ResNet-50) and YOLOv8 for distraction detection
 
-- 💬 Ask me about **Data Science**
+- Data Science & ML background — applying it through Python-based analysis (pandas, scikit-learn, deep learning) alongside core analyst tooling
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/umar43/)
+- 🌱 Currently sharpening **SQL, Power BI/DAX, and machine learning fundamentals**
 
-- ⚡ Fun fact **I think I'm funny**
+- 👯 Open to collaborating on data analytics, BI, or applied ML projects
 
+- 💬 Ask me about **SQL, data cleaning, RFM analysis, Power BI dashboards, or Python-based analysis**
+
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/umar43/)
+
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=umar43&show_icons=true&locale=en" alt="umar43" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=umar43&" alt="umar43" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=umar43&show_icons=true&locale=en" alt="umar43" />
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umar43&" alt="umar43" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
